@@ -1,0 +1,124 @@
+button{
+            border-radius:100px;
+        }
+       
+        #bo2{
+
+             background-color: #8080ff;
+
+
+        }
+        #bo{
+            background-color:light grey;
+
+box-shadow: 5px 0 2px rgba(0, 0, 0, 0.2);
+
+        }
+        #lbtn{
+            margin-top: 100px;
+            width:200px;
+            background-color:purple;
+        }
+        #car3{
+            width:250px;
+            height:500px;
+            box-shadow:2px 3px 5px grey;
+            box-shadow:3px 4px 7px black
+
+        }
+
+
+        body {
+
+            background-color:  #e6e6e6;
+            border:0.5px solid black;
+             
+            font-family: Georgia, serif;
+        }
+        #sc{
+            width:300px;
+        }
+#nav1 {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color:#d9d9d9;
+    border-radius: 20px 20px 60px 60px;
+}
+
+        #car{
+            width:350px;
+            height:90px;
+            margin:10px;
+            margin-right:50px;
+            float: left;
+/*            background-color:lightcyan;*/
+            box-shadow:2px 3px 5px grey;
+            box-shadow:3px 4px 7px black
+
+        }
+         #car1{
+            width:350px;
+            height:90px;
+            margin:10px;
+            margin-right:50px;
+            float: left;
+/*            background-color:lightcyan;*/
+            box-shadow:2px 3px 5px grey;
+            box-shadow:3px 4px 7px black
+
+        }
+        #some{
+            margin-left:30px;
+        }
+        #hp2{
+            background-color: #f2f2f2;
+        }
+
+        #sp{
+            margin-left:30px;
+        }
+        #img1{
+            display: flex;
+        }
+        #homeDropdown {
+            margin-left: 500px;
+        }
+        #medi {
+            color: purple;
+        }
+        #backtext{
+            padding-top:100px;
+            padding-left:30px;
+            font-family:;
+        }
+        #backtext2{
+            padding-top:10px;
+            padding-left:30px;
+            font-family:;
+        }
+
+        #text{
+            font-size:30px;
+        }
+        .back {
+    background-image: url('roundimages/doc.WEBP');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 600px; /* Add this line */
+    max-width: 100%;
+}
+#k{
+    border-radius:30px;
+}
+#con{
+    background-color: #f2f2f2;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+  
